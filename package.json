@@ -54,7 +54,7 @@
     "cheerio": "^1.0.0-rc.3",
     "exceljs": "^2.0.1",
     "inline-css": "^2.4.2",
-    "sanitize-html": "^1.20.1",
+    "sanitize-html": "^2.3.2",
     "sha.js": "^2.4.11",
     "strip-attributes": "^0.2.0",
     "url-toolkit": "^2.1.6",
